@@ -1,9 +1,9 @@
 
 TITLE: 
-Launcher - 100% Fully Responsive Free HTML5 Bootstrap Template
+Guardian - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -39,9 +39,5 @@ http://daneden.me/animate
 jQuery Waypoint
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-simplyCountdown
-http://vincentloy.github.io/simplyCountdown.js/
-
-Demo Images:
-http://unsplash.com
-
+Vide
+http://vodkabears.github.io/vide/
